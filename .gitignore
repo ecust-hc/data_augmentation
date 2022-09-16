@@ -8,3 +8,10 @@ eve/data
 eve/results
 eve/logs
 eve/examples
+progen/progen2/data
+progen/progen2/checkpoints
+Tranception/ProteinGym_substitutions
+Tranception/Tranception_Large
+Tranception/proteingym
+Tranception/design_app
+Tranception/result
